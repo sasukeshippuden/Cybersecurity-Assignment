@@ -1,5 +1,5 @@
 # Cybersecurity-Assignment
-# DDoS Attack Sequence Diagram
+## DDoS Attack Sequence Diagram
 
 ```mermaid
 sequenceDiagram
