@@ -13,7 +13,8 @@ sequenceDiagram
     WebServer->>Firewall: Overwhelmed by requests
     Firewall->>WebServer: Traffic analysis
     Firewall->>BotNet: IP blocking
-    BotNet->>Attacker: Report blocked IPs```
+    BotNet->>Attacker: Report blocked IPs
+```
 ## Explanation of the DDoS Attack Sequence
 
 1. **Attacker Infects BotNet:** The attacker infects multiple systems (BotNet) by exploiting vulnerabilities.
